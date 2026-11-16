@@ -1,0 +1,17 @@
+{
+    "test_loss": 0.13238638639450073,
+    "test_accuracy": 0.9375600384245918,
+    "test_accuracy_percent": 93.75600384245918,
+    "epochs_completed": 8,
+    "training_samples": 34018,
+    "validation_samples": 7832,
+    "testing_samples": 8328,
+    "class_names": [
+        "Falling",
+        "Lying",
+        "Running",
+        "Sitting",
+        "Standing",
+        "Walking"
+    ]
+}
